@@ -1,0 +1,31 @@
+# End of level
+print("Your score: " + str(score))
+time.sleep(1)
+print("High score: " + str(high_score))
+time.sleep(1)
+print("Lives remaining: " + str(lives))
+time.sleep(1)
+
+# Lose a life
+print("Your score: " + str(score))
+time.sleep(1)
+print("High score: " + str(high_score))
+time.sleep(1)
+print("Lives remaining: " + str(lives))
+time.sleep(1)
+
+# New high score
+print("Your score: " + str(score))
+time.sleep(1)
+print("High score: " + str(high_score))
+time.sleep(1)
+print("Lives remaining: " + str(lives))
+time.sleep(1)
+
+# Game over
+print("Your score: " + str(score))
+time.sleep(1)
+print("High score: " + str(high_score))
+time.sleep(1)
+print("Lives remaining: " + str(lives))
+time.sleep(1)
